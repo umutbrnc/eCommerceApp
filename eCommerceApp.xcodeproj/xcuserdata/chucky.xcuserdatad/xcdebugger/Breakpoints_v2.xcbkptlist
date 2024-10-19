@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3077C356-B3B7-4017-9FE1-C6D1945F64E6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4EF10564-63B4-4CDE-A5B7-79C3777628F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "eCommerceApp/data/repo/Repository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "223"
+            endingLineNumber = "223"
+            landmarkName = "removeCartProduct(sepetId:kullaniciAdi:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4EF10564-63B4-4CDE-A5B7-79C3777628F7 - bbe5e944dc46846e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in eCommerceApp.Repository.removeCartProduct(sepetId: Swift.Int, kullaniciAdi: Swift.String) -&gt; ()"
+                  moduleName = "eCommerceApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chucky/Desktop/eCommerceApp/eCommerceApp/data/repo/Repository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "1900">
+               </Location>
+               <Location
+                  uuid = "4EF10564-63B4-4CDE-A5B7-79C3777628F7 - bbe5e944dc46844f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in eCommerceApp.Repository.removeCartProduct(sepetId: Swift.Int, kullaniciAdi: Swift.String) -&gt; ()"
+                  moduleName = "eCommerceApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chucky/Desktop/eCommerceApp/eCommerceApp/data/repo/Repository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "181"
+                  endingLineNumber = "181"
+                  offsetFromSymbolStart = "2148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
