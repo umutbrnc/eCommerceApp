@@ -1,6 +1,6 @@
 # eCommerceApp
 
-E-Commerce Mobile Application (iOS) with Swift
+E-Commerce Mobile Application (iOS) with Swift and UIKit
 
 E-Commerce Application is an application where the user can see the products and perform the operations of adding to the cart, deleting from the cart and updating the quantity. Note : This application was made as a graduation project within the framework of the BTK Academy iOS Bootcamp within Innova, thanks to the valuable information taught by Kasım Adalan.
 
